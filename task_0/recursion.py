@@ -27,7 +27,7 @@ def isPalindrome(s):
 
 
 # Recursive folder traversal
-path = 'folderRecursive'
+path = 'task_0/folderRecursive'
 
 
 def folderTraversal(path, level=1):
